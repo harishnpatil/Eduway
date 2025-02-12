@@ -1,0 +1,25 @@
+Learning Pathway,Duration,Link,Module,Domain
+HTML & CSS Basics,2 weeks,https://example.com/html-css,Web Development,Web Development
+Responsive Web Design,2 weeks,https://example.com/responsive-web,Frontend Web,Web Development
+React Fundamentals,4 weeks,https://example.com/react,Frontend Web,Web Development
+Node.js & Express,4 weeks,https://example.com/nodejs,Backend Web,Web Development
+Full Stack Development,6 weeks,https://example.com/full-stack,Web Development,Web Development
+Mathematics for ML,4 weeks,https://example.com/math-for-ml,ML Foundation,Machine Learning
+Python for ML,3 weeks,https://example.com/python-for-ml,ML Foundation,Machine Learning
+ML Fundamentals,6 weeks,https://example.com/ml-fundamentals,Machine Learning,Machine Learning
+Deep Learning,8 weeks,https://example.com/deep-learning,Machine Learning,Machine Learning
+MLOps,4 weeks,https://example.com/mlops,Machine Learning,Machine Learning
+Linux Fundamentals,2 weeks,https://example.com/linux,DevOps Foundation,DevOps
+Git & GitHub,2 weeks,https://example.com/git-github,DevOps Foundation,DevOps
+Docker,3 weeks,https://example.com/docker,DevOps,DevOps
+Kubernetes,4 weeks,https://example.com/kubernetes,DevOps,DevOps
+Jenkins & CI/CD,3 weeks,https://example.com/jenkins,DevOps,DevOps
+Network Security,4 weeks,https://example.com/network-security,Cybersecurity,Cybersecurity
+Application Security,4 weeks,https://example.com/app-security,Cybersecurity,Cybersecurity
+Ethical Hacking,6 weeks,https://example.com/ethical-hacking,Cybersecurity,Cybersecurity
+Security Operations,5 weeks,https://example.com/security-ops,Cybersecurity,Cybersecurity
+Cryptography,3 weeks,https://example.com/cryptography,Cybersecurity,Cybersecurity
+AWS Fundamentals,4 weeks,https://example.com/aws,Cloud Computing,Cloud Computing
+Azure Fundamentals,4 weeks,https://example.com/azure,Cloud Computing,Cloud Computing
+GCP Fundamentals,4 weeks,https://example.com/gcp,Cloud Computing,Cloud Computing
+Cloud Architecture,6 weeks,https://example.com/cloud-architecture,Cloud Computing,Cloud Computing
